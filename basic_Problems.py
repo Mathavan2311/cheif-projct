@@ -7,7 +7,8 @@
 # -- <!-- 
 # -- Output Format
 
-# -- Print Weird if the number is weird. Otherwise, print Not Weird.
+# -- Print Weird if the number is weird. Otherwise, print Not Weird. 
+ there is some change
 
 # n=int(input("enter:"))
 # if(n%2==0) or (n>=6 and n<=20):
